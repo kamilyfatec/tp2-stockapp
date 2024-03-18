@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q89bgUJKH/KexBoO1tnW9u7HunuQgk8pYKUvUj47+jx1kvcTbNKRiavEGZxOu71YS4f4iAbfk82M8bsQ8qiZIQ==",
+  "dgSpecHash": "Ee3C9QLJuFh9WqPpnantBKrDjFdXX/5PG8sKcZAI/3pcT3HseClj6aeCQFH0oErWTPtUdOR/MrX264ONvAenhA==",
   "success": true,
-  "projectFilePath": "C:\\tp\\tp2-stockapp\\StockApp\\StockApp.Application\\StockApp.Application.csproj",
+  "projectFilePath": "C:\\tp kamy\\tp2-stockapp\\StockApp\\StockApp.Application\\StockApp.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
