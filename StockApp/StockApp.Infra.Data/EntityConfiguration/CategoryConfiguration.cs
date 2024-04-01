@@ -1,0 +1,21 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using StockApp.Domain.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace StockApp.Infra.Data.EntityConfiguration
+{
+    internal class CategoryConfiguration : IEntityTypeConfiguration<Category>
+    {
+        public void Configure(EntityTypeBuilder<Category> builder)
+        {
+            builder.HasKey(t => t.Id);
+            builder.Property(p => p.Name).HasMaxLength(100).IsRequired();
+
+        }
+    }
+}
