@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\StockApp"
+    "\\StockApp",
+    "\\StockApp\\StockApp.Domain.Test",
+    "\\StockApp\\StockApp.Infra.Data",
+    "\\StockApp\\StockApp.Infra.Data\\Repositories"
   ],
-  "SelectedNode": "\\StockApp\\StockApp.sln",
+  "SelectedNode": "\\StockApp\\StockApp.Domain.Test\\ProductUnitTest.cs",
   "PreviewInSolutionExplorer": false
 }

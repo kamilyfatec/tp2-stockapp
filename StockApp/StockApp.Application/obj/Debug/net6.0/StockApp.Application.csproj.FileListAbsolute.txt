@@ -13,3 +13,18 @@ C:\tp\tp2-stockapp\StockApp\StockApp.Application\obj\Debug\net6.0\StockApp.Appli
 C:\tp\tp2-stockapp\StockApp\StockApp.Application\obj\Debug\net6.0\refint\StockApp.Application.dll
 C:\tp\tp2-stockapp\StockApp\StockApp.Application\obj\Debug\net6.0\StockApp.Application.pdb
 C:\tp\tp2-stockapp\StockApp\StockApp.Application\obj\Debug\net6.0\ref\StockApp.Application.dll
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Application\bin\Debug\net6.0\StockApp.Application.deps.json
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Application\bin\Debug\net6.0\StockApp.Application.dll
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Application\bin\Debug\net6.0\StockApp.Application.pdb
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Application\bin\Debug\net6.0\StockApp.Domain.dll
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Application\bin\Debug\net6.0\StockApp.Domain.pdb
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Application\obj\Debug\net6.0\StockApp.Application.csproj.AssemblyReference.cache
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Application\obj\Debug\net6.0\StockApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Application\obj\Debug\net6.0\StockApp.Application.AssemblyInfoInputs.cache
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Application\obj\Debug\net6.0\StockApp.Application.AssemblyInfo.cs
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Application\obj\Debug\net6.0\StockApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Application\obj\Debug\net6.0\StockApp.Application.csproj.CopyComplete
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Application\obj\Debug\net6.0\StockApp.Application.dll
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Application\obj\Debug\net6.0\refint\StockApp.Application.dll
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Application\obj\Debug\net6.0\StockApp.Application.pdb
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Application\obj\Debug\net6.0\ref\StockApp.Application.dll

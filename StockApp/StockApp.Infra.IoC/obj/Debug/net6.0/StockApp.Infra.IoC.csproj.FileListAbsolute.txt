@@ -17,3 +17,22 @@ C:\tp\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\StockApp.Infra.I
 C:\tp\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\refint\StockApp.Infra.IoC.dll
 C:\tp\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\StockApp.Infra.IoC.pdb
 C:\tp\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\ref\StockApp.Infra.IoC.dll
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Infra.IoC\bin\Debug\net6.0\StockApp.Infra.IoC.deps.json
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Infra.IoC\bin\Debug\net6.0\StockApp.Infra.IoC.dll
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Infra.IoC\bin\Debug\net6.0\StockApp.Infra.IoC.pdb
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Infra.IoC\bin\Debug\net6.0\StockApp.Application.dll
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Infra.IoC\bin\Debug\net6.0\StockApp.Domain.dll
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Infra.IoC\bin\Debug\net6.0\StockApp.Infra.Data.dll
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Infra.IoC\bin\Debug\net6.0\StockApp.Application.pdb
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Infra.IoC\bin\Debug\net6.0\StockApp.Domain.pdb
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Infra.IoC\bin\Debug\net6.0\StockApp.Infra.Data.pdb
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\StockApp.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\StockApp.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\StockApp.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\StockApp.Infra.IoC.AssemblyInfo.cs
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\StockApp.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\StockApp.Infra.IoC.csproj.CopyComplete
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\StockApp.Infra.IoC.dll
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\refint\StockApp.Infra.IoC.dll
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\StockApp.Infra.IoC.pdb
+C:\Users\vicds\OneDrive\Área de Trabalho\2024\FATEC\3 semestre\TP\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\ref\StockApp.Infra.IoC.dll
