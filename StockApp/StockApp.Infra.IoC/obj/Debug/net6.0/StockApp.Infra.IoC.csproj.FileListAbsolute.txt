@@ -17,3 +17,22 @@ C:\tp\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\StockApp.Infra.I
 C:\tp\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\refint\StockApp.Infra.IoC.dll
 C:\tp\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\StockApp.Infra.IoC.pdb
 C:\tp\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\ref\StockApp.Infra.IoC.dll
+C:\TP VICDSO\tp2-stockapp\tp2-stockapp\StockApp\StockApp.Infra.IoC\bin\Debug\net6.0\StockApp.Infra.IoC.deps.json
+C:\TP VICDSO\tp2-stockapp\tp2-stockapp\StockApp\StockApp.Infra.IoC\bin\Debug\net6.0\StockApp.Infra.IoC.dll
+C:\TP VICDSO\tp2-stockapp\tp2-stockapp\StockApp\StockApp.Infra.IoC\bin\Debug\net6.0\StockApp.Infra.IoC.pdb
+C:\TP VICDSO\tp2-stockapp\tp2-stockapp\StockApp\StockApp.Infra.IoC\bin\Debug\net6.0\StockApp.Application.dll
+C:\TP VICDSO\tp2-stockapp\tp2-stockapp\StockApp\StockApp.Infra.IoC\bin\Debug\net6.0\StockApp.Domain.dll
+C:\TP VICDSO\tp2-stockapp\tp2-stockapp\StockApp\StockApp.Infra.IoC\bin\Debug\net6.0\StockApp.Infra.Data.dll
+C:\TP VICDSO\tp2-stockapp\tp2-stockapp\StockApp\StockApp.Infra.IoC\bin\Debug\net6.0\StockApp.Application.pdb
+C:\TP VICDSO\tp2-stockapp\tp2-stockapp\StockApp\StockApp.Infra.IoC\bin\Debug\net6.0\StockApp.Domain.pdb
+C:\TP VICDSO\tp2-stockapp\tp2-stockapp\StockApp\StockApp.Infra.IoC\bin\Debug\net6.0\StockApp.Infra.Data.pdb
+C:\TP VICDSO\tp2-stockapp\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\StockApp.Infra.IoC.csproj.AssemblyReference.cache
+C:\TP VICDSO\tp2-stockapp\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\StockApp.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\TP VICDSO\tp2-stockapp\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\StockApp.Infra.IoC.AssemblyInfoInputs.cache
+C:\TP VICDSO\tp2-stockapp\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\StockApp.Infra.IoC.AssemblyInfo.cs
+C:\TP VICDSO\tp2-stockapp\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\StockApp.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\TP VICDSO\tp2-stockapp\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\StockApp.Infra.IoC.csproj.CopyComplete
+C:\TP VICDSO\tp2-stockapp\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\StockApp.Infra.IoC.dll
+C:\TP VICDSO\tp2-stockapp\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\refint\StockApp.Infra.IoC.dll
+C:\TP VICDSO\tp2-stockapp\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\StockApp.Infra.IoC.pdb
+C:\TP VICDSO\tp2-stockapp\tp2-stockapp\StockApp\StockApp.Infra.IoC\obj\Debug\net6.0\ref\StockApp.Infra.IoC.dll
